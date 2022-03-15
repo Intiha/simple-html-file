@@ -1,0 +1,81 @@
+*{
+    /* background-color: aqua; */
+    margin: auto;
+    padding: 0%;
+    
+}
+
+.body{
+    background-color: lightblue;
+    margin: 100px;
+    padding: 50px;
+    border: 10px solid #fcba03;
+}
+
+
+.heading{
+    background-color: darkblue;
+    font-family: courier;
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+    height: 250px;
+    padding-top: 100px;
+}
+
+.firsthalf{
+    /* background-color: navy; */
+    color: yellow;
+    font-size: 25px;
+    font-family: times new roman;
+    text-align: center;
+    width: 100%
+}
+
+.details{
+    /* background-color: tomato; */
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: cambria;
+
+}
+
+.img{
+    width: 40px;
+    align-items: center;
+
+
+}
+
+
+/* .link-tag{
+    background-color: cyan;
+} */
+
+.link-tag:link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.link-tag:hover{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.link-tag:visited{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.link-tag:active{
+    color: indigo;
+    background-color: transparent;
+    text-decoration: none;
+}
